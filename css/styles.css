@@ -11763,9 +11763,12 @@ html {
 
 
 .link-ttl{
-  font-family: "Delicious Handrawn", cursive;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
+  text-transform: uppercase;
+  text-align: center;
 }
 .made{
   width: 15em;
