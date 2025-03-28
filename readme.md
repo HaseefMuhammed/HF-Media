@@ -1,12 +1,10 @@
 ```
 Copy from
 
-<div class="col-6 col-md-3 hover-zoomin">
-    <a class="bg-product" href="productUrlHere" target="_blank">
-        <img class="img-fluid rounded w-100 h-100 product-img" src="imageUrlHere" alt="img_prouct">
-    </a>
-    <h3 class="link-ttl">Title</h3>
-</div>
+<div class="col-6 col-md-3 hover-zoomin"><a class="bg-product" href="productUrlHere" target="_blank">
+                                <img class="img-fluid rounded w-100 h-100 product-img" src="imageUrlHere" alt="img_prouct"></a>
+                                <h3 class="link-ttl">Title</h3>
+                                </div>
 
 Copy to
 ```
