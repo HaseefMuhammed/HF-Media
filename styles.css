@@ -11771,5 +11771,29 @@ html {
   text-align: center;
 }
 .made{
-  width: 7em;
+  width: 3em;
+}
+
+
+.bg-product{
+  background-image: url('assets/bg.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll;
+}
+.product-img{
+  mix-blend-mode: multiply;
+}
+#year{
+  font-style: normal;
+}
+
+/* Preloader */
+#preloader{
+  background: white url(assets/loading.gif) no-repeat center center;
+  background-size: 20%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
 }
